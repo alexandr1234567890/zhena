@@ -36,3 +36,4 @@ pritchi.ru###offer_disable_adblocker > .popupwin
 pritchi.ru##.alert-success
 pritchi.ru##.alert-info.alert
 pritchi.ru##.content-spoiler__control
+||pritchi.ru/*/*.jpg$image
