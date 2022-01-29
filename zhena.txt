@@ -34,5 +34,5 @@ pritchi.ru##.g-middle > .g-hidden-print
 pritchi.ru##.page-global-area:nth-of-type(5)
 pritchi.ru###offer_disable_adblocker > .popupwin
 pritchi.ru##.alert-success
-pritchi.ru##.alert
+pritchi.ru##.alert-info.alert
 pritchi.ru##.content-spoiler__control
