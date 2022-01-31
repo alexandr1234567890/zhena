@@ -21,6 +21,24 @@ www.y2mate.com###share-place-download
 www.y2mate.com##.extension-header
 www.y2mate.com##tr:nth-of-type(6) > .text-center
 
+pritchi.ru###sidebar-right
+pritchi.ru##.bg-yellow.bordered.page-global-area
+pritchi.ru##.site-footer
+pritchi.ru##.discussion.discussion-area
+pritchi.ru##.parable.article-area > .meta
+pritchi.ru##.summary
+pritchi.ru###note
+pritchi.ru##.breadcrumbs
+pritchi.ru##.header-content
+pritchi.ru##.g-middle > .g-hidden-print
+pritchi.ru##.page-global-area:nth-of-type(5)
+pritchi.ru###offer_disable_adblocker > .popupwin
+pritchi.ru##.alert-success
+pritchi.ru##.alert-info.alert
+pritchi.ru##.content-spoiler__control
+||pritchi.ru/*/*.jpg$image
+pritchi.ru##.ap_container.google-auto-placed
+
 
 
 
