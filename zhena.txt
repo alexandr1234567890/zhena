@@ -38,6 +38,7 @@ pritchi.ru##.alert-info.alert
 pritchi.ru##.content-spoiler__control
 ||pritchi.ru/*/*.jpg$image
 pritchi.ru##.ap_container.google-auto-placed
+pritchi.ru##.as-spoiler.bordered.page-global-area
 
 
 
