@@ -29,7 +29,6 @@ pritchi.ru##.parable.article-area > .meta
 pritchi.ru##.summary
 pritchi.ru###note
 pritchi.ru##.breadcrumbs
-pritchi.ru##.header-content
 pritchi.ru##.g-middle > .g-hidden-print
 pritchi.ru##.page-global-area:nth-of-type(5)
 pritchi.ru###offer_disable_adblocker > .popupwin
@@ -42,6 +41,19 @@ pritchi.ru##.as-spoiler.bordered.page-global-area
 pritchi.ru##.fancybox-overlay-fixed.fancybox-overlay
 pritchi.ru##.fancybox-skin
 pritchi.ru##.share_more_selection
+pritchi.ru###header-search-wrap
+pritchi.ru##.user-wrap
+||pritchi.ru/images/logo.png$image
+pritchi.ru##.secondary-nav
+pritchi.ru##.logo > .title
+pritchi.ru##.logo-wrap
+pritchi.ru##li:nth-of-type(7) > .js-fancybox-form
+pritchi.ru##a[href="/"]
+pritchi.ru###primary-nav-menu > li:nth-of-type(6) > .js-fancybox-form
+pritchi.ru##li:nth-of-type(5) > .js-fancybox-form
+pritchi.ru##a[href="/top_1"]
+pritchi.ru##a[href="/all_2"]
+pritchi.ru##.current
 
 
 
